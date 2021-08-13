@@ -89,3 +89,4 @@ lint/tmp/
 *.hprof
 /node_modules/
 /package-lock.json
+/config/detekt/reports/
