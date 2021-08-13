@@ -87,3 +87,5 @@ lint/tmp/
 
 # Android Profiling
 *.hprof
+/node_modules/
+/package-lock.json
