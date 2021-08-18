@@ -1,0 +1,2 @@
+json_key_file("fastlane/google_api_test.json")
+package_name("com.juango.huskyanddetekt") # e.g. com.krausefx.app
